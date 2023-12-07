@@ -49,9 +49,9 @@
       - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/8708a3c4-98d8-4af3-991a-a0977020f3e0)
     - 3) 아래 표는 이산 코사인 변환(DCT) 사용 유무에 따른 zero-bit 워터마킹 실험결과임.
       - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/1f1cc623-9936-456b-836a-fcb0a4056953)
-    - 4) 아래 그림은 고속 푸리에 변환(FFT) 사용 유무에 따른 주파수 이미지 비교 결과임.
+    - 4) 아래 그림은 일반 이미지(왼쪽)와 생성 이미지(오른쪽)의 고속 푸리에 변환(FFT) 비교 결과임.
       - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/d7fe7359-d16d-4fb9-a560-c2cb7396c152)
-    - 5) 아래 그림은 이산 코사인 변환(DCT) 사용 유무에 따른 주파수 이미지 비교 결과임.
+    - 5) 아래 그림은 일반 이미지(왼쪽)와 생성 이미지(오른쪽)의 이산 코사인 변환(DCT) 비교 결과임.
       - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/2de15204-4dff-4ed8-88e5-1bab1b339043)
   
 ## Conclusion
