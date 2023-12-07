@@ -44,11 +44,11 @@
       - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/f77211c4-5994-4a5b-b1cc-712b7caedb6a)
   - ### Experimental Results
     - 1) 아래 표는 이미지 크기 변환과 절삭을 이용하여 데이터 증대를 수행한 실험결과임.
-      - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/5114484a-d038-4a82-841e-6e6e00c90c48)
+      - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/40494d15-7eef-424e-aa6a-b121656b8f19)
     - 2) 아래 표는 고속 푸리에 변환(FFT) 사용 유무에 따른 zero-bit 워터마킹 실험결과임.
-      - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/c34b188d-e8f4-4a04-b51f-4baf5d0386da)
+      - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/8708a3c4-98d8-4af3-991a-a0977020f3e0)
     - 3) 아래 표는 이산 코사인 변환(DCT) 사용 유무에 따른 zero-bit 워터마킹 실험결과임.
-      - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/945a2e90-b23d-42d5-a0bc-e92d88b4a1d5)
+      - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/1f1cc623-9936-456b-836a-fcb0a4056953)
     - 4) 아래 그림은 고속 푸리에 변환(FFT) 사용 유무에 따른 주파수 이미지 비교 결과임.
       - ![image](https://github.com/HBNU-SWUNIV/INDPROJ23-aimlab/assets/14088046/d7fe7359-d16d-4fb9-a560-c2cb7396c152)
     - 5) 아래 그림은 이산 코사인 변환(DCT) 사용 유무에 따른 주파수 이미지 비교 결과임.
